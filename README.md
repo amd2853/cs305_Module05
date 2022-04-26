@@ -24,3 +24,6 @@ git clone <URL Link>
 ```
 # Project Addition
 Here we are learning how others can fork this repository, add content, and push the changes for the author to review through a pull request.
+
+# Project Addition #2
+A second group member is also learning how to fork, commit changes then push to the original author.
